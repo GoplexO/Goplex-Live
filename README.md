@@ -10,7 +10,7 @@ We are learning the way it works and we hope to improve xombie in order to get m
 It is best to have your IP configuration set to manual on an IP that you wont be using for anything else.
 
 Our server runs a DNS server on **51.195.216.235** set that as your Primary DNS
-Seccondary DNS can be either the same or any other DNS you want to use.
+Secondary DNS can be either the same or any other DNS you want to use.
 
 Ensure everything is correct and hit connect,
 If everything worked, you will be given the Xbox Live Not Found error about "MTU's" this means it worked but we don't have your console registered for a machine account.
